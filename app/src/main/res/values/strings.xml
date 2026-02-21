@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Echo Charging</string>
+    <string name="title">Echo Charging Estimator</string>
+    <string name="current_battery_hint">Current battery (%)</string>
+    <string name="battery_size_hint">Battery size (mAh)</string>
+    <string name="charger_power_hint">Charger power (W)</string>
+    <string name="calculate">Calculate charging time</string>
+    <string name="result_default">Estimated time will appear here.</string>
+    <string name="result_template">Estimated full charge time: %.2f hours</string>
+    <string name="input_error">Please enter all values.</string>
+    <string name="validation_error">Please enter valid positive values.</string>
+</resources>
